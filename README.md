@@ -26,15 +26,6 @@
 
 ---
 
-### 📈 Em aprendizado
-
-- Node.js
-- MySQL e MongoDB
-- React.js
-- Integrações com APIs e projetos full-stack
-
----
-
 ### 🚀 Projetos em destaque
 
 - [🌀 ARCA – Alerta de Risco Climático e Apoio](https://github.com/KelsonZh0/arca)  
